@@ -27,3 +27,8 @@ Pokemon using only a list of numbers (i.e. an image feature vector).
 - Scikit-Image
 - requests
 - BeautifulSoup
+
+####
+
+python parse_and_download.py --pokemon-list pokemon_list.html --sprites sprites
+
